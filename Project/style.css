@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0%;
+    background-color: rgb(131, 61, 133);
+}
+
+.header {
+    padding: 0%;
+    background-color: rgb(87, 18, 94);
+    height: 100px;
+    text-align: center;
+    font-size: 35px;
+    color: pink;
+    font-family: "Shantell Sans", sans-serif;
+    height: 28vh;
+    border: 2px solid #333;
+}
+
+.color {
+    display: table-cell;
+    width: 15px;
+    height: 15px;
+    margin: 0 1px;
+    cursor: pointer;
+    border: 2px solid #FFF;
+}
+
+.clr1 {
+    background-color: rgb(131, 61, 133);
+}
+
+.clr2 {
+    background-color: rgb(176, 111, 161);
+}
+
+.clr3 {
+    background-color: #b668bf;
+}
+
+.clr4 {
+    background-color: #2a0434;
+}
+
+.TheApp {
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    margin: 0;
+    background-color: rgb(128, 33, 120);
+    color: pink;
+    padding: 10px;
+    font-size: 20px;
+    font-family: "Shantell Sans", sans-serif;
+    font-weight: bold;
+}
+
+.buttonCss {
+    background-color: rgb(241, 161, 234);
+    color: white;
+    font-size: 20px;
+    border-width: 0;
+    border-radius: 10px;
+    width: 200px;
+    font-family: "Shantell Sans", sans-serif;
+}
+
+.output {
+    color: pink;
+    font-size: 40px;
+}
